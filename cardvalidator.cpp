@@ -2,7 +2,7 @@
 	@author https://github.com/Butterski
 	@create date 2021-05-30 22:52:53
 	@modify date 2021-05-31 13:33:14
-	@desc with this program you can easly validate your cc number or generate fake cc number
+	@desc: use this to validate or generate cc nubmer
 */
 
 #include <stdio.h>

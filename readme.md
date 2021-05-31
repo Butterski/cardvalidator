@@ -1,3 +1,4 @@
+# Card Validator & Generator
 ## **[Method i use to validate cards](https://en.wikipedia.org/wiki/Luhn_algorithm)**
 
 ### Read this 
